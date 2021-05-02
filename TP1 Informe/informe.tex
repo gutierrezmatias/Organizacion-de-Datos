@@ -1,0 +1,207 @@
+\documentclass[a4paper,12pt]{article}
+% es-tabla hace que se escriba "Tabla" en vez de "Cuadro"
+\usepackage[spanish, es-tabla]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage{blindtext}
+
+\usepackage{enumerate}
+\usepackage{chngcntr}
+\counterwithin*{section}{part}
+
+% Espaciado tiene que ser 1,5
+%\renewcommand{\baselinestretch}{1.5}
+
+% Tiene que ser justificado, paquete para alinear es:
+%\usepackage{ragged2e}
+
+% Márgenes de 2 cm a ambos lados
+%\usepackage[left=2cm, right=2cm]{geometry}
+
+% Notación científica
+%\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+
+% Para las imagenes
+\usepackage{graphicx}
+
+% Para los apendices
+\usepackage[toc,page]{appendix}
+
+% Para que la bilbiografía sea una sección
+%\usepackage{etoolbox}
+%\patchcmd{\thebibliography}{\section*}{\section}{}{}
+
+% Para que los apéndices estén en español
+%\addto\captionsspanish{%
+%  \renewcommand\appendixname{Anexo}
+%  \renewcommand\appendixpagename{Apéndices}
+%}
+%\addto\captionsspanish{%
+%   \renewcommand{\appendixtocname}{Apéndices}
+%   \renewcommand{\appendixpagename}{Apéndices}
+%}
+%Fancy logo atrás de la carátula
+\usepackage[pages=some,scale=2.5,angle=0,opacity=0.1]{background}
+\newcommand\BackImage[2][scale=1]{%
+\BgThispage
+\backgroundsetup{
+  contents={\includegraphics[#1]{#2}}
+  }
+}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+\BackImage[width=.5\textwidth]{imagenes/logofiuba.png}% image on page 1
+\begin{titlepage}
+	\centering	
+	\vspace{1cm}
+	{\scshape\LARGE Facultad de ingeniería de la UBA\par}
+	\vspace{1cm}
+	{\scshape\Large 75.06/95.58 Organización de Datos\par}
+	\vspace{1.5cm}
+	{\huge\bfseries Trabajo práctico N$^\circ$1 \par Análisis de datos\par }
+	\vspace{1cm}
+	{Primer cuatrimestre de 2021\par}
+	\vspace{2cm}
+	{\Large\itshape Análisis exploratorio sobre los datos de \textit{Richter's Predictor}\par}
+	\vfill
+
+\begin{table}[H]
+\label{tabla:integrantes}
+\begin{tabular}{|c|c|c|}
+\hline
+Integrante & Padrón & Correo electrónico\\
+\hline
+Gutiérrez, Matías & 92172 & \texttt{matiasgutierrez@outlook.com}\\
+
+\hline
+\end{tabular}
+\label{table:mediciones}
+\end{table}	
+	
+	
+	\vfill
+
+% Bottom of the page
+	{\large Nombre del grupo: \textit{DataStalkers}\\
+	Link al repositorio: \texttt{git@github.com:gutierrezmatias/Organizacion-de-Datos.git}\\
+	
+	}
+
+\end{titlepage}
+
+\pagenumbering{roman}
+\tableofcontents
+
+\newpage
+
+\pagenumbering{arabic}
+
+\part{Introducción}
+\par
+En el presente informe se presentan los resultados obtenidos al realizar análisis exploratorio sobre los datos de  \textit{Richter's Predictor}. 
+\par
+Los datos brindados consistieron en dos datasets:
+\begin{itemize}
+    \item train values: Con datos relacionados a .
+    \item train labels: Con datos relacionados a.
+\end{itemize}
+
+\par
+Las siguientes secciones resumen los resultados obtenidos luego de realizar el análisis, junto a las conclusiones obtenidas.
+
+\newpage
+
+\part{Análisis previo y limpieza de datos}
+
+\section{Introducción}
+
+\par
+...
+
+\par ...
+
+\paragraph{Para la proporción de valores nulos:} ....
+
+\paragraph{Para la cantidad de valores distintos:}....
+
+\section{Reporte detallado de la primera inspección de los datos}
+....
+
+\subsection{Dataset \textit{train values}}
+\begin{itemize}
+    \item ...
+\end{itemize}
+
+\subsection{Dataset \textit{train labels}}
+\begin{itemize}
+    \item ...
+\end{itemize}
+
+\newpage
+
+\part{Análisis de datos}
+
+\section{train values}
+\par
+...
+
+
+\subsection{...}
+...
+
+
+\subsection{....}
+\par 
+..
+
+\subsubsection*{.....}
+\par
+...
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=135mm, height=100mm, keepaspectratio]{graficos/...}
+ \label{....}
+ \caption{...}
+\end{figure}
+
+\par
+....
+\par 
+...
+
+\subsubsection{.....}
+\par
+.....
+\par
+.....
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{graficos/...}
+ \caption{....}
+ \label{...}
+\end{figure}
+
+...
+\par
+...
+
+\newpage
+
+\part{Conclusiones}
+
+\section{....}
+...
+
+\section{...}
+...
+
+\section{...}
+...
+
+\section{...}
+...
+\end{document}
