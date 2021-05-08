@@ -8,7 +8,7 @@ Por ahora seguiria este orden:
 1. Limpieza
 * Fijarse si hay datos faltantes (no los hay) 
 * Formatear los datos de manera adecuada (hecho)
-* Clasificar los tipos de columnas (datos geográficos, material construido, estado de la casa, segundo uso) y ponerlos en variables 
+* Clasificar los tipos de columnas (datos geográficos, material construido, estado de la casa, segundo uso) y ponerlos en variables (Ver si es necesario)
 2. Analisis a gran escala
 * ¿Que variables estan correlacionadas?
 * ¿Qué eje central elegir? Para mí, es evidente que es damage_grade
