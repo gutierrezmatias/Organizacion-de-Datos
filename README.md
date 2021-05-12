@@ -3,7 +3,9 @@
 ---
 
 drive: https://drive.google.com/drive/folders/1Q_Ug49goOZk_VRvC_6JOpq3Nn81SCXLq?usp=sharing
+
 overleaf: https://www.overleaf.com/1464475512jstbnkvqtnvs
+
 Un notebook con ejemplos: [Aqui](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 ## Actualización 12/5
 Cada uno investiga las columnas que más relacionan con sus preguntas (las del word de ideas). Matías las de tipo estadístico/censo, Cropa las de altura, materiales, Tomas las de ubicación. Cada una va a estar relacionada con daños eventualmente.
