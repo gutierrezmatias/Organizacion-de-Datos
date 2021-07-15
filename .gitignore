@@ -3,3 +3,5 @@
 alexis/train_labels.csv
 alexis/train_values.csv
 *.sav
+TP2/modelos
+TP2/submissions
