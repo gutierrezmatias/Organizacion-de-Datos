@@ -18,3 +18,4 @@ La tarea es:
 1. Feature Engineering. Desechar columnas (si es conveniente), transformar features, agregar features, etc. Todo con la configuración inicial del algoritmo.
 2. Tuneo de hiperparámetros. Una vez mejorado el data set podemos empezar a mejorar los hiperparámetros.
 
+Guías que pueden servir para lightGBM: https://www.kaggle.com/prashant111/lightgbm-classifier-in-python
