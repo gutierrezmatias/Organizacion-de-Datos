@@ -5,6 +5,11 @@ Integrantes:
 * Alexis Brian, Herrera Aguilar
 * Tomás Yavicoli
 
+Update 23/07
+Overleaf: https://www.overleaf.com/project/608f39af5b4377288afc5c58  
+Se necesita:
+* Nuevas features, ratios, medias, etc. Si pueden involucrar a las categóricas mejor
+
 Update 15/07
 Ver el drive del informe para más detalle de fechas!.  
 
