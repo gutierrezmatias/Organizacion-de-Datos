@@ -1,0 +1,48 @@
+Fitting 5 folds for each of 540 candidates, totalling 2700 fits
+[CV 1/5; 1/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8
+[CV 1/5; 1/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8;, score=0.760 total time=  34.1s
+[CV 2/5; 1/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8
+[CV 2/5; 1/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8;, score=0.757 total time=  32.0s
+[CV 3/5; 1/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8
+[CV 3/5; 1/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8;, score=0.762 total time=  32.0s
+[CV 4/5; 1/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8
+[CV 4/5; 1/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8;, score=0.761 total time=  32.2s
+[CV 5/5; 1/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8
+[CV 5/5; 1/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=0.8;, score=0.760 total time=  31.9s
+[CV 1/5; 2/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0
+[CV 1/5; 2/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0;, score=0.760 total time=  29.1s
+[CV 2/5; 2/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0
+[CV 2/5; 2/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0;, score=0.757 total time=  28.8s
+[CV 3/5; 2/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0
+[CV 3/5; 2/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0;, score=0.761 total time=  29.3s
+[CV 4/5; 2/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0
+[CV 4/5; 2/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0;, score=0.761 total time=  27.4s
+[CV 5/5; 2/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0
+[CV 5/5; 2/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.0;, score=0.761 total time=  27.4s
+[CV 1/5; 3/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5
+[CV 1/5; 3/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5;, score=nan total time=   1.0s
+[CV 2/5; 3/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5
+[CV 2/5; 3/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5;, score=nan total time=   1.0s
+[CV 3/5; 3/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5
+[CV 3/5; 3/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5;, score=nan total time=   1.0s
+[CV 4/5; 3/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5
+[CV 4/5; 3/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5;, score=nan total time=   1.0s
+[CV 5/5; 3/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5
+[CV 5/5; 3/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=1, subsample=1.5;, score=nan total time=   1.1s
+[CV 1/5; 4/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8
+[CV 1/5; 4/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8;, score=0.760 total time=  30.9s
+[CV 2/5; 4/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8
+[CV 2/5; 4/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8;, score=0.757 total time=  34.9s
+[CV 3/5; 4/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8
+[CV 3/5; 4/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8;, score=0.762 total time=  36.1s
+[CV 4/5; 4/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8
+[CV 4/5; 4/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8;, score=0.761 total time=  33.8s
+[CV 5/5; 4/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8
+[CV 5/5; 4/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=0.8;, score=0.761 total time=  33.0s
+[CV 1/5; 5/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0
+[CV 1/5; 5/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0;, score=0.760 total time=  33.1s
+[CV 2/5; 5/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0
+[CV 2/5; 5/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0;, score=0.757 total time=  30.1s
+[CV 3/5; 5/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0
+[CV 3/5; 5/540] END colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0;, score=0.761 total time=  30.4s
+[CV 4/5; 5/540] START colsample_bytree=0.8, gamma=0, learning_rate=0.2, max_depth=4, min_child_weight=5, subsample=1.0
