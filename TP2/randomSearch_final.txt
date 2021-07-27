@@ -1,0 +1,10 @@
+Fitting 5 folds for each of 40 candidates, totalling 200 fits
+[CV 1/5; 1/40] START colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9
+[CV 1/5; 1/40] END colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9;, score=0.763 total time= 6.0min
+[CV 2/5; 1/40] START colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9
+[CV 2/5; 1/40] END colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9;, score=0.759 total time= 6.0min
+[CV 3/5; 1/40] START colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9
+[CV 3/5; 1/40] END colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9;, score=0.764 total time= 6.1min
+[CV 4/5; 1/40] START colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9
+[CV 4/5; 1/40] END colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9;, score=0.764 total time= 6.8min
+[CV 5/5; 1/40] START colsample_bytree=0.9, eta=0.1, gamma=4.0, max_delta_step=0, max_depth=13, min_child_weight=2.5, n_estimators=305, subsample=0.9

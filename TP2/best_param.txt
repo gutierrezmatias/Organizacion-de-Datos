@@ -1,0 +1,60 @@
+26/07/2021, 15:59:32 --- Score: 0.7595289353631242--- ---
+Parametros-[('n_estimators', 150), ('max_depth', 8), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.6000000000000001), ('eta', 0.2)]
+26/07/2021, 16:03:41 --- Score: 0.7613132724853907--- ---
+Parametros-[('n_estimators', 100), ('max_depth', 5), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.8), ('eta', 0.4)]
+26/07/2021, 16:08:28 --- Score: 0.7609257090874335--- ---
+Parametros-[('n_estimators', 130), ('max_depth', 5), ('colsample_bytree', 0.8), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.2)]
+26/07/2021, 16:08:34 --- Score: nan--- ---
+Parametros-[('n_estimators', 180), ('max_depth', 7), ('colsample_bytree', 0.9), ('min_child_weight', 2), ('subsample', 1.1), ('eta', 0.2)]
+26/07/2021, 16:13:00 --- Score: 0.7609448939604392--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 4), ('colsample_bytree', 0.8), ('min_child_weight', 2), ('subsample', 0.6000000000000001), ('eta', 0.30000000000000004)]
+26/07/2021, 16:18:47 --- Score: 0.7608758254579789--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 5), ('colsample_bytree', 1.0), ('min_child_weight', 2), ('subsample', 0.9), ('eta', 0.5)]
+26/07/2021, 16:18:53 --- Score: nan--- ---
+Parametros-[('n_estimators', 150), ('max_depth', 5), ('colsample_bytree', 0.9), ('min_child_weight', 2), ('subsample', 1.1), ('eta', 0.30000000000000004)]
+26/07/2021, 16:23:33 --- Score: 0.7610178041051916--- ---
+Parametros-[('n_estimators', 170), ('max_depth', 4), ('colsample_bytree', 0.8), ('min_child_weight', 2), ('subsample', 1.0), ('eta', 0.4)]
+26/07/2021, 16:30:02 --- Score: 0.7608220970204479--- ---
+Parametros-[('n_estimators', 100), ('max_depth', 7), ('colsample_bytree', 1.0), ('min_child_weight', 2), ('subsample', 0.8), ('eta', 0.30000000000000004)]
+26/07/2021, 16:38:55 --- Score: 0.761616417744983--- ---
+Parametros-[('n_estimators', 150), ('max_depth', 7), ('colsample_bytree', 1.0), ('min_child_weight', 1), ('subsample', 0.5), ('eta', 0.1)]
+26/07/2021, 16:48:36 --- Score: 0.7588765996173701--- ---
+Parametros-[('n_estimators', 180), ('max_depth', 7), ('colsample_bytree', 0.8), ('min_child_weight', 2), ('subsample', 0.7000000000000001), ('eta', 0.30000000000000004)]
+26/07/2021, 16:58:50 --- Score: 0.7613669925299126--- ---
+Parametros-[('n_estimators', 160), ('max_depth', 7), ('colsample_bytree', 1.0), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.2)]
+26/07/2021, 17:04:01 --- Score: 0.7598128914795834--- ---
+Parametros-[('n_estimators', 180), ('max_depth', 4), ('colsample_bytree', 0.9), ('min_child_weight', 2), ('subsample', 1.0), ('eta', 0.1)]
+26/07/2021, 17:11:24 --- Score: 0.7602772057811107--- ---
+Parametros-[('n_estimators', 110), ('max_depth', 7), ('colsample_bytree', 1.0), ('min_child_weight', 2), ('subsample', 0.7000000000000001), ('eta', 0.30000000000000004)]
+26/07/2021, 17:17:26 --- Score: 0.7614590917441751--- ---
+Parametros-[('n_estimators', 110), ('max_depth', 7), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.8), ('eta', 0.1)]
+26/07/2021, 17:23:39 --- Score: 0.7577330859034948--- ---
+Parametros-[('n_estimators', 120), ('max_depth', 7), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.4)]
+26/07/2021, 17:31:05 --- Score: 0.7619502625708763--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 7), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.1)]
+26/07/2021, 17:36:48 --- Score: 0.7618850304098602--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 5), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.0), ('eta', 0.30000000000000004)]
+26/07/2021, 17:51:56 --- Score: 0.756274914960779--- ---
+Parametros-[('n_estimators', 190), ('max_depth', 8), ('colsample_bytree', 1.0), ('min_child_weight', 2), ('subsample', 0.8), ('eta', 0.30000000000000004)]
+26/07/2021, 17:57:31 --- Score: 0.7610983881844218--- ---
+Parametros-[('n_estimators', 150), ('max_depth', 5), ('colsample_bytree', 0.8), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.2)]
+26/07/2021, 18:03:19 --- Score: 0.7497899095797557--- ---
+Parametros-[('n_estimators', 90), ('max_depth', 9), ('colsample_bytree', 0.8), ('min_child_weight', 1), ('subsample', 0.7000000000000001), ('eta', 0.5)]
+26/07/2021, 18:06:46 --- Score: 0.7611828045558374--- ---
+Parametros-[('n_estimators', 110), ('max_depth', 5), ('colsample_bytree', 0.8), ('min_child_weight', 1), ('subsample', 0.9), ('eta', 0.5)]
+26/07/2021, 18:06:51 --- Score: nan--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.1), ('eta', 0.4)]
+26/07/2021, 18:12:40 --- Score: 0.7607069851319903--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.9), ('eta', 0.4)]
+26/07/2021, 18:12:45 --- Score: nan--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.1), ('eta', 0.2)]
+26/07/2021, 18:12:51 --- Score: nan--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.1), ('eta', 0.2)]
+26/07/2021, 18:12:56 --- Score: nan--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.1), ('eta', 0.2)]
+26/07/2021, 18:19:16 --- Score: 0.761129085542036--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 6), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.5), ('eta', 0.2)]
+26/07/2021, 18:19:21 --- Score: nan--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 9), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 1.1), ('eta', 0.4)]
+26/07/2021, 18:29:27 --- Score: 0.7482665015432903--- ---
+Parametros-[('n_estimators', 140), ('max_depth', 9), ('colsample_bytree', 0.9), ('min_child_weight', 1), ('subsample', 0.6000000000000001), ('eta', 0.4)]
