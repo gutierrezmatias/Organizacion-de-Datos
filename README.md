@@ -5,22 +5,5 @@ Integrantes:
 * Alexis Brian, Herrera Aguilar
 * Tomás Yavicoli
 
-Update 23/07
-Overleaf: https://www.overleaf.com/project/608f39af5b4377288afc5c58  
-Se necesita:
-* Nuevas features, ratios, medias, etc. Si pueden involucrar a las categóricas mejor
-
-Update 15/07
-Ver el drive del informe para más detalle de fechas!.  
-
-Drive borrador del informe: https://drive.google.com/drive/u/1/folders/1Q_Ug49goOZk_VRvC_6JOpq3Nn81SCXLq  
-
-Nos vamos a dividir en 2 subgrupos:
-* Julián y Alexis -> XGBoost
-* Tomás y Matías -> LightGBM (Si tienen otro algoritmo pueden cambiarlo)
-
-La tarea es:
-1. Feature Engineering. Desechar columnas (si es conveniente), transformar features, agregar features, etc. Todo con la configuración inicial del algoritmo.
-2. Tuneo de hiperparámetros. Una vez mejorado el data set podemos empezar a mejorar los hiperparámetros.
-
-Guías que pueden servir para lightGBM: https://www.kaggle.com/prashant111/lightgbm-classifier-in-python
+Overleaf TP2: https://www.overleaf.com/project/608f39af5b4377288afc5c58  
+Video de explicación: Pronto...
