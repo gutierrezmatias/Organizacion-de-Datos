@@ -6,4 +6,4 @@ Integrantes:
 * Tomás Yavicoli
 
 Overleaf TP2: https://www.overleaf.com/project/608f39af5b4377288afc5c58  
-Video de explicación: Pronto...
+Video de explicación: https://youtu.be/puPcbDvtdRM
